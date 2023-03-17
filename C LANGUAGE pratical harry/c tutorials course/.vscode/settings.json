@@ -1,0 +1,10 @@
+{
+    "debug.javascript.autoAttachSmartPattern": [
+        "!**/{node_modules,npm-global,.yarn,.nvm}/**"
+    ]
+} 
+{
+    "files.associations": {
+        "stdlib.h": "c"
+    }
+}

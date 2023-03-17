@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "math.h": "c"
+    },
+    "editor.fontSize": 15,
+    "editor.wordWrap": "on"
+}
